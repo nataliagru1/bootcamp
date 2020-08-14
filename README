@@ -1,0 +1,10 @@
+README
+
+These data files were used in the August 2020 bootcamp
+
+The directories: 
+
+* code - scripts
+* data - data files
+* fastq - RNA-seq files
+* genome - FASTA files

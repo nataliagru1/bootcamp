@@ -1,0 +1,6 @@
+# Index yeast genome and ERCC sequences
+
+subread-___ \
+  -o ___ \
+  genome/___ \
+  genome/Saccharomyces_cerevisiae.R64-1-1.dna_rm.chromosome.*fa.gz

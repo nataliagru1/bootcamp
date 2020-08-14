@@ -1,0 +1,8 @@
+# Count reads per feature
+
+___ \
+  -a genome/___ \
+  -F SAF \
+  -T ___ \
+  -o data/counts.txt \
+  bam/*bam
